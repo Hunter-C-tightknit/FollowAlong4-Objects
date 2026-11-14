@@ -49,7 +49,7 @@ public class Stretch {
         String color = "blue";
         double price = 50000.00;
     }
-    //
+
     static class Phone {
         String brand = "Apple";
         final int MAX_BATTERY = 100;
@@ -65,3 +65,4 @@ public class Stretch {
         }
 
 }
+//777
