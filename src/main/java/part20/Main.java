@@ -10,7 +10,7 @@ package part20;
 //
 //   1. In main(), delete the // in front of that step's line, like  // step1();
 //   2. Further down, delete the /* above that step's method and the */ below it.
-//
+//              g
 // Then run Main with the green ▶ next to main, and compare with the README.
 
 public class Main {
