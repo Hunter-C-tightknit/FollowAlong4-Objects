@@ -32,7 +32,7 @@ public class ObjectOriented {
         myCar1.brake();// runs the brake method that belongs to car 1
         System.out.println(myCar2.Make); // this out prints the Make of Car 2 being Chevrolete
     }
-
+//9
     public static class Car {// here this class defines the object Car
         // here are the attributes of object car
         String Make = "Chevrolete";
